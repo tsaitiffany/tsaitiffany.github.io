@@ -1,6 +1,6 @@
 ---
 layout: default
-title: pblog
+title: blog
 permalink: /blog/
 ---
 <div class="header-bar">
