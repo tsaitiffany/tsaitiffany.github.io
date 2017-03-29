@@ -1,6 +1,6 @@
 ---
 layout: page
-title: tiffany tsai photography
+title: portfolio
 permalink: /portfolio/
 ---
 
