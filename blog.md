@@ -1,7 +1,8 @@
 ---
 layout: default
+title: pblog
+permalink: /blog/
 ---
-
 <div class="header-bar">
   <h1>*folio</h1>
   <h2>simple whitespace theme</h2>
