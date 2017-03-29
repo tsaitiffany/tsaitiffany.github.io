@@ -12,7 +12,7 @@ permalink: /blog/
 </div>
 
 
-<ul class="post-list">
+<div class="post-list">
     {% for post in paginator.posts %}
       <li>
         <h2><a class="post-title" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
@@ -22,4 +22,4 @@ permalink: /blog/
         <hr/>
       </li>
     {% endfor %}
-</ul>
+</div>
