@@ -4,12 +4,17 @@ title: investment
 permalink: /investment/
 ---
 
-<img class="col one right" src="/img/prof_pic.jpg">
 
 <br/>
 <h4> <b>Portraits</b> </h4>
 <p> Solo $60 ~ 1 hour, unlimited outfit changes, online image gallery, and digital downloads</p>
 <p> Couples + Group $80 ~ 1 hour, unlimited outfit changes, online image gallery, and digital downloads</p>
+
+<div class="img_row">
+  <img class="col two" src="/img/6.jpg"/>
+  <img class="col one" src="/img/11.jpg"/>
+</div>
+
 <h4> <b>Special Events</b> </h4>
 <p> Have something special in mind like an engagement or product photoshoot? Let's get in touch!</p>
 
