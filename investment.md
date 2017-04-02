@@ -7,7 +7,7 @@ permalink: /investment/
 <img class="col one right" src="/img/prof_pic.jpg">
 
 <br/>
-<h> Portraits </h>
+<h3> <b>Portraits</b> </h3>
 <p> Solo $60 - 1 hour, unlimited outfit changes, online image gallery, and digital downloads</p>
 <p> Couples + Group $80 - 1 hour, unlimited outfit changes, online image gallery, and digital downloads</p>
 
@@ -16,8 +16,7 @@ permalink: /investment/
 <hr/>
 <br/>
 <span class="contacticon center">
-	<a href="mailto:you@example.com"><i class="fa fa-envelope-square"></i></a>
-	<a href="https://github.com" target="_blank"><i class="fa fa-github-square"></i></a>
+	<a href="mailto:tsaitiffany@utexas.edu"><i class="fa fa-envelope-square"></i></a>
 	<a href="https://www.linkedin.com" target="_blank"><i class="fa fa-linkedin-square"></i></a>
 	<a href="http://tumblr.com" target="_blank"><i class="fa fa-tumblr-square"></i></a>
 	<a href="https://twitter.com" target="_blank"><i class="fa fa-twitter-square"></i></a>
