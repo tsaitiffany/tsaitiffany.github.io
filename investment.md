@@ -12,12 +12,18 @@ permalink: /investment/
 
 <div class="img_row">
   <img class="col one" src="/img/invest1.jpg"/>
-  <img class="col one" src="/img/invest2.jpg"/>
-  <img class="col one" src="/img/invest3.jpg"/>
+  <img class="col two" src="/img/invest4.jpg"/>
 </div>
 
 <h4> <b>Special Events</b> </h4>
 <p> Have something special in mind like an engagement or product photoshoot? Let's get in touch!</p>
+
+
+<div class="img_row">
+  <img class="col one" src="/img/invest2.jpg"/>
+  <img class="col one" src="/img/invest3.jpg"/>
+  <img class="col one" src="/img/invest5.jpg"/>
+</div>
 
 <br/>
 <hr/>
