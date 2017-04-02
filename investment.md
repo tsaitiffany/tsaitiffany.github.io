@@ -20,8 +20,8 @@ permalink: /investment/
   <img class="col one" src="/img/invest3.jpg"/>
   <img class="col one" src="/img/invest4.jpg"/>
 </div>
-<h4> <b>Special Events</b> </h4>
-<p> Have something special in mind like an engagement or product photoshoot? Let's get in touch!</p>
+<h4> <b>Videography</b> </h4>
+<p> Have a special event coming up like an engagement, wedding, or a school organization event? Let's get in touch!</p>
 
 <br/>
 <hr/>
