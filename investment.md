@@ -7,10 +7,11 @@ permalink: /investment/
 <img class="col one right" src="/img/prof_pic.jpg">
 
 <br/>
-<h3> <b>Portraits</b> </h3>
-<p> Solo $60 - 1 hour, unlimited outfit changes, online image gallery, and digital downloads</p>
-<p> Couples + Group $80 - 1 hour, unlimited outfit changes, online image gallery, and digital downloads</p>
-
+<h4> <b>Portraits</b> </h4>
+<br>
+<p> Solo $60 ~ 1 hour, unlimited outfit changes, online image gallery, and digital downloads</p>
+<p> Couples + Group $80 ~ 1 hour, unlimited outfit changes, online image gallery, and digital downloads</p>
+<br/>
 
 <br/>
 <hr/>
