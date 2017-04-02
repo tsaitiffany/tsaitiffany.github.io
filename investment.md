@@ -8,22 +8,20 @@ permalink: /investment/
 <br/>
 <h4> <b>Portraits</b> </h4>
 <p> Solo $60 ~ 1 hour, unlimited outfit changes, online image gallery, and digital downloads</p>
-<p> Couples + Group $80 ~ 1 hour, unlimited outfit changes, online image gallery, and digital downloads</p>
+
 
 <div class="img_row">
   <img class="col one" src="/img/invest1.jpg"/>
-  <img class="col two" src="/img/invest4.jpg"/>
+  <img class="col two" src="/img/invest5.jpg"/>
 </div>
-
-<h4> <b>Special Events</b> </h4>
-<p> Have something special in mind like an engagement or product photoshoot? Let's get in touch!</p>
-
-
+<p> Couples + Group $80 ~ 1 hour, unlimited outfit changes, online image gallery, and digital downloads</p>
 <div class="img_row">
   <img class="col one" src="/img/invest2.jpg"/>
   <img class="col one" src="/img/invest3.jpg"/>
-  <img class="col one" src="/img/invest5.jpg"/>
+  <img class="col one" src="/img/invest.jpg"/>
 </div>
+<h4> <b>Special Events</b> </h4>
+<p> Have something special in mind like an engagement or product photoshoot? Let's get in touch!</p>
 
 <br/>
 <hr/>
