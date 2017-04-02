@@ -6,7 +6,7 @@ permalink: /investment/
 
 
 <br/>
-<h4> <b>Portraits</b> </h4>
+<h4> <b>portraits</b> </h4>
 <p> Solo $60 ~ 1 hour, unlimited outfit changes, online image gallery, and digital downloads</p>
 
 
@@ -20,7 +20,7 @@ permalink: /investment/
   <img class="col one" src="/img/invest3.jpg"/>
   <img class="col one" src="/img/invest4.jpg"/>
 </div>
-<h4> <b>Videography</b> </h4>
+<h4> <b>videography</b> </h4>
 <p> Have a special event coming up like an engagement, wedding, or a school organization event? Let's get in touch!</p>
 
 <br/>
