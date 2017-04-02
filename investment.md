@@ -8,17 +8,17 @@ permalink: /investment/
 
 <br/>
 <h4> <b>Portraits</b> </h4>
-<br>
 <p> Solo $60 ~ 1 hour, unlimited outfit changes, online image gallery, and digital downloads</p>
 <p> Couples + Group $80 ~ 1 hour, unlimited outfit changes, online image gallery, and digital downloads</p>
-<br/>
+<h4> <b>Special Events</b> </h4>
+<p> Have something special in mind like an engagement or product photoshoot? Let's get in touch!</p>
 
 <br/>
 <hr/>
 <br/>
 <span class="contacticon center">
 	<a href="mailto:tsaitiffany@utexas.edu"><i class="fa fa-envelope-square"></i></a>
-	<a href="https://www.linkedin.com" target="_blank"><i class="fa fa-linkedin-square"></i></a>
+	<a href="https://www.instagram.com" target="_tifftifftsai"><i class="fa fa-instagram"></i></a>
 	<a href="http://tumblr.com" target="_blank"><i class="fa fa-tumblr-square"></i></a>
 	<a href="https://twitter.com" target="_blank"><i class="fa fa-twitter-square"></i></a>
 </span>
