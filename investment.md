@@ -11,8 +11,9 @@ permalink: /investment/
 <p> Couples + Group $80 ~ 1 hour, unlimited outfit changes, online image gallery, and digital downloads</p>
 
 <div class="img_row">
-  <img class="col two" src="/img/6.jpg"/>
-  <img class="col one" src="/img/11.jpg"/>
+  <img class="col one" src="/img/invest1.jpg"/>
+  <img class="col one" src="/img/invest2.jpg"/>
+  <img class="col one" src="/img/invest3.jpg"/>
 </div>
 
 <h4> <b>Special Events</b> </h4>
