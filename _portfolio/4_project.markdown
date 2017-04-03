@@ -3,7 +3,7 @@ layout: post
 title: book now
 description: 
 img: 
-redirect: <a href="mailto:tsaitiffany@utexas.edu"></a>
+redirect: mailto:tsaitiffany@utexas.edu
 ---
 
 Every project has a beautiful feature shocase page. It's easy to include images, in a flexible 3-column grid format. Make your photos 1/3, 2/3, or full width.
