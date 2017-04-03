@@ -2,7 +2,7 @@
 layout: post
 title: groups
 description: 
-img: /img/invest3.jpg
+img: /img/pic3.jpg
 ---
 
 <div class="img_row">
