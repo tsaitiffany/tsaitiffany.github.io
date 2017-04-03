@@ -2,7 +2,7 @@
 layout: post
 title: travel
 description: 
-img: /img/pic2.jpg
+img: /img/pic4.jpg
 ---
 
 Every project has a beautiful feature shocase page. It's easy to include images, in a flexible 3-column grid format. Make your photos 1/3, 2/3, or full width.
